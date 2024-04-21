@@ -8,7 +8,6 @@
 
 (Source Code C#) https://github.com/ComponentFactory/Krypton/
 
-
 ![kryptontoolkit2022](https://github.com/thongkorn/KryptonToolkitDataGridView/assets/27464308/2dfd1385-7783-4c59-9330-5ef08f16562d)
 
 ![kryptontoolkitinstall](https://github.com/thongkorn/KryptonToolkitDataGridView/assets/27464308/bbb3d1e2-99da-47d6-b37f-6bb7258383dc)
@@ -16,3 +15,7 @@
 ![kryptontoolkitversion](https://github.com/thongkorn/KryptonToolkitDataGridView/assets/27464308/45e40a3b-60ae-4566-9a68-bab069cfd656)
 
 ![kryptontoolkitreference](https://github.com/thongkorn/KryptonToolkitDataGridView/assets/27464308/9ce4c607-8ccc-48f0-83f1-7ade861b89d2)
+
+การเปลี่ยน Skin หรือ Palette ให้กับ Krypton Toolkit
+![kryptontoolkitSkin](https://github.com/thongkorn/KryptonToolkitDataGridView/assets/27464308/5c96ebec-2a45-43e3-bbc8-92f58210df3d)
+
